@@ -14,6 +14,6 @@ function soma_num (){
 
 echo $num . "<br>";
 
-soma_num(5 , 4);
+soma_num();
 
 ?>
