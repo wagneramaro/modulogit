@@ -16,4 +16,6 @@ echo $num . "<br>";
 
 soma_num();
 
+
+echo $num;
 ?>
